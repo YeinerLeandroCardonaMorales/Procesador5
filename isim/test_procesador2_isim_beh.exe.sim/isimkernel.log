@@ -1,0 +1,30 @@
+Command line:
+   test_procesador2_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49617
+
+Sun May 27 15:38:15 2018
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 510.3 Meg
+
+ Total Signals          : 107
+ Total Nets             : 2953
+ Total Signal Drivers   : 31
+ Total Blocks           : 21
+ Total Primitive Blocks : 19
+ Total Processes        : 21
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 3455
+In process instruction_memory_IM.vhd:67 
+ 
+
+ Total Simulation Time: 0.343201 sec
+
+ Current Memory Usage: 510.3 Meg
+
+Sun May 27 15:40:09 2018
+

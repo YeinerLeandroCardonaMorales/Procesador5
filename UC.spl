@@ -1,0 +1,9 @@
+[Inputs]
+=entrada_OP[1:0]=
+=entrada_OP3[5:0]=
+[Outputs]
+SDR
+WRENMEM
+WRIN
+=salida_uc_op[5:0]=
+[BiDir]

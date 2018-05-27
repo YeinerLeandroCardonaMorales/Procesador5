@@ -1,0 +1,5 @@
+set -tmpdir "D:/Proyectos_Xilinx/Procesador5_SinConexxion/xst/projnav.tmp"
+set -xsthdpdir "D:/Proyectos_Xilinx/Procesador5_SinConexxion/xst"
+elaborate
+-ifn procesador2.prj
+-ifmt mixed
